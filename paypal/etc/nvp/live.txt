@@ -1,0 +1,16 @@
+; Here you set all main settings needed for all requests
+
+; user name
+API_UserName = 
+
+; password
+API_Password = 
+
+; signature
+API_Signature = 
+
+;version
+version = 51.0
+
+;environment - can be one of these: sandbox, beta-sandbox, live
+environment = live
